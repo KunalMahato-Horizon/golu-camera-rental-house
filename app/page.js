@@ -6,9 +6,9 @@ import ConversionBanner from "@/components/ConversionBanner";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Your Brand — Find What You Need",
+  title: "Golu Camera Rental House | Camera Rental in Chas, Bokaro",
   description:
-    "Browse popular categories, learn why customers choose us, and get started today.",
+    "Rent professional cameras, lenses, gimbals, drones, and lighting in Chas, Bokaro. Quality-checked gear, flexible rental plans, and fast WhatsApp support.",
 };
 
 export default function Home() {
